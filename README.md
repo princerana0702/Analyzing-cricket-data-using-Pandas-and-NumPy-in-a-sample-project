@@ -17,4 +17,4 @@ Hypothesis Examination
 4.handling outliers
 
 Data collection :
-Data has been collected from the Code Basics platform.
+Data has been collected from the codebasics.io platform.
