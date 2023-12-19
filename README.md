@@ -13,7 +13,7 @@ Hypothesis Examination
 
 1.handling missing data
 2.duplicate value
-3.handling datatypes  conversion
+3.handling datatypes conversion
 4.handling outliers
 
 Data collection :
